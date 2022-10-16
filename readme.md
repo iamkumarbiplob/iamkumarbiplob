@@ -27,11 +27,11 @@
 
 <!-- - 🔭 I’m currently working on  Soy Estudiante -->
 
-- 🌱 I’m currently learning Solana, Rust & NFT
+- 🌱 I’m currently learning Solidity, Solana, Rust & NFT
 
 <!-- - 👯 I’m looking to collaborate on Proyectos -->
 
-- 💬 Ask me about Python, Java, Solana
+- 💬 Ask me about Python, Solidity, Java, Solana
 
 <!-- - ⚡ Fun fact: Me gustan los girasoles. -->
 
