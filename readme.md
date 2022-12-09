@@ -81,16 +81,16 @@
     Connect with me 
     <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 
 </h2>
-<a href = 'https://www.linkedin.com/in/biplob-511285/'> 
+<a href = 'https://www.linkedin.com/in/kumar-biplob/'> 
     <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
 </a> 
-<a href = 'https://twitter.com/Biplobkumar6'> 
+<a href = 'https://twitter.com/iamkumarbiplob'> 
     <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/>
 </a> 
 
-<!-- <a href = 'https://kumarbiplob.com/'> 
+<a href = 'https://kumarbiplob.com/'> 
     <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/>
-</a>  -->
+</a>
 <a href = 'https://www.github.com/kumarbiplob336'> 
     <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
 </a>
