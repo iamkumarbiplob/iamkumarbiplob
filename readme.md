@@ -11,7 +11,7 @@
 </p>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=kumarbiplob336)
+
 [![Github](https://img.shields.io/github/followers/kumarbiplob336?label=Follow&style=social)](https://github.com/kumarbiplob336)
 
 <div size='20px'> 
