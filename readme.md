@@ -91,7 +91,7 @@
 <a href = 'https://kumarbiplob.com/'> 
     <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/>
 </a>
-<a href = 'https://www.github.com/kumarbiplob336'> 
+<a href = 'https://www.github.com/iamkumarbiplob'> 
     <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
 </a>
   
