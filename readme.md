@@ -17,7 +17,8 @@
 <div size='20px'> 
     Hi! My name is Biplob. Thank You for taking the time to view my GitHub Profile :smile:
 
-    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3910333" style='border:none;'></iframe>
+    ![Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3910333)
+
 
 </div>
 
