@@ -17,7 +17,9 @@
 <div size='20px'> 
     Hi! My name is Biplob. Thank You for taking the time to view my GitHub Profile :smile:
 </div>
-<div> ![Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3910333)</div>
+<div> 
+    <img src="https://tryhackme-badges.s3.amazonaws.com/iamkumarbiplob.png" alt="Your Image Badge" />
+    </div>
 
 <h2> 
     About Me 
