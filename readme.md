@@ -20,9 +20,7 @@
 <div> 
     <img src="https://tryhackme-badges.s3.amazonaws.com/iamkumarbiplob.png" alt="Your Image Badge" />
 </div>
-<div>
-    [![trophy](https://github-profile-trophy.vercel.app/?username=iamkumarbiplob)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+
 
 <h2> 
     About Me 
