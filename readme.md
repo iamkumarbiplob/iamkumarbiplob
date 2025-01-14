@@ -13,15 +13,16 @@
 
 
 [![Github](https://img.shields.io/github/followers/iamkumarbiplob?label=Follow&style=social)](https://github.com/iamkumarbiplob)
-<br/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div size='20px'> 
     Hi! My name is Biplob. Thank You for taking the time to view my GitHub Profile :smile:
 </div>
 <div> 
     <img src="https://tryhackme-badges.s3.amazonaws.com/iamkumarbiplob.png" alt="Your Image Badge" />
-    </div>
+</div>
+<div>
+    [![trophy](https://github-profile-trophy.vercel.app/?username=iamkumarbiplob)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
 <h2> 
     About Me 
